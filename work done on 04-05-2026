@@ -1,0 +1,43 @@
+# Setting Up a GitHub Repository and Some Notes
+
+1. Creating a New GitHub Repository Called Volyo solution internship
+2. What You Need to Know About the README.md File
+3.What is a `.md` File?
+
+* `.md` stands for **Markdown**
+
+* It is a way to write documents that can be formatted
+
+* It uses symbols like:
+
+* `#` to make headings
+
+* `*` to make lists
+
+* It is easy to read. Can be turned into web pages 
+
+ What to Put in Your README File
+
+1. The title of your project
+
+2. A description of what it does
+
+3. Steps to install it
+
+4. Instructions on how to use it
+
+5. Rules for contributing to the project
+
+6. License information 
+
+
+
+
+## 3. Checking Out a Website
+
+We looked at a website that has information about states:
+
+ https://forthepeople.in/en
+
+This website has a lot of information, about different states.
+
