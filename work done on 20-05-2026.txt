@@ -1,0 +1,17 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 19 May 2026
+
+1. EXCEL DASHBOARD WORK
+Continued working on the Excel dashboard
+Practiced organizing data for better visualization
+Worked on improving dashboard design and layout
+Used charts and formatting to make the dashboard more interactive and readable
+Improved understanding of data presentation and reporting techniques
+2. PYTHON DATAFRAME LEARNING
+Worked on DataFrames in Python
+Learned what a DataFrame is and how it stores tabular data
+Explored rows, columns, and structured datasets
+Practiced basic DataFrame handling concepts
+Improved understanding of data analysis using Python
+end
