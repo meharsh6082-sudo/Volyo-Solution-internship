@@ -1,0 +1,19 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 18 May 2026
+
+1. EXCEL PRACTICE
+Worked on Excel dropdown values and dropdown menus
+Practiced using Data Validation for creating dropdown lists
+Improved understanding of controlled data entry in spreadsheets
+Explored how dropdowns help organize and manage data efficiently
+2. DASHBOARD WORK
+Continued working on dashboard creation in Excel
+Practiced arranging charts and data for better visualization
+Improved dashboard design and presentation skills
+Learned how dashboards help summarize and analyze information quickly
+3. PANDAS LEARNING
+Learned what Pandas is in Python
+Understood the basic purpose of Pandas in data analysis
+Explored how Pandas helps handle and manage datasets
+Learned the importance of Pandas in data science and analytics

@@ -1,0 +1,19 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 14 May 2026
+
+1. EXCEL CHARTS PRACTICE
+Learned how to create charts in Excel
+Practiced different types of charts for data visualization
+Understood how charts help represent data clearly and visually
+Improved understanding of graphical representation in spreadsheets
+2. DROPDOWN MENU PRACTICE
+Learned how to create dropdown menus in Excel
+Practiced using Data Validation for dropdown lists
+Understood how dropdowns improve data entry and accuracy
+Explored practical use cases of dropdown menus in datasets
+3. EXCEL FILE DESIGN & LOOK
+Observed and analyzed the overall look and structure of Excel files
+Learned how formatting improves readability and presentation
+Explored different spreadsheet layouts and designs
+Improved understanding of professional Excel sheet organization
