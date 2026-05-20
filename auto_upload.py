@@ -1,8 +1,9 @@
 import os
+from datetime import datetime
 
-# ===== TAKE MULTI-LINE INPUT =====
-print("Paste your full content below.")
-print("When finished, type END in a new line.\n")
+# ===== TAKE MULTI-LINE CONTENT =====
+print("Paste your content below.")
+print("Type END in a new line when finished.\n")
 
 lines = []
 
@@ -16,20 +17,22 @@ while True:
 
 content = "\n".join(lines)
 
-# ===== FILE NAME =====
-file_name = input("\nEnter file name: ")
+# ===== AUTO FILE NAME =====
+today_date = datetime.now().strftime("%d-%m-%Y")
+
+file_name = f"work done {today_date}.txt"
 
 # ===== CREATE TXT FILE =====
-with open(f"{file_name}.txt", "w", encoding="utf-8") as file:
+with open(file_name, "w", encoding="utf-8") as file:
     file.write(content)
 
-print(f"\n{file_name}.txt created successfully!")
+print(f"\n{file_name} created successfully!")
 
-# ===== GIT COMMANDS =====
+# ===== AUTO GIT UPLOAD =====
 os.system("git add .")
 
-os.system(f'git commit -m "Added {file_name}.txt"')
+os.system(f'git commit -m "Updated {today_date}"')
 
 os.system("git push")
 
-print("\nFile uploaded to GitHub successfully!")
+print("\nUploaded to GitHub successfully!")
