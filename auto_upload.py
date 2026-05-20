@@ -20,7 +20,7 @@ content = "\n".join(lines)
 # ===== AUTO FILE NAME =====
 today_date = datetime.now().strftime("%d-%m-%Y")
 
-file_name = f"work done {today_date}.txt"
+file_name = f"work done on {today_date}.txt"
 
 # ===== CREATE TXT FILE =====
 with open(file_name, "w", encoding="utf-8") as file:
