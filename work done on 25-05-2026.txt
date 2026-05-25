@@ -1,0 +1,24 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 22 May 2026
+
+1. POWER BI QUERY EDITOR
+Worked on the Power BI Query Editor interface
+Explored the Query Editor UI and its features
+Learned about the Applied Steps pane and how transformations are tracked
+Improved understanding of data transformation workflows in Power BI
+2. DATA CLEANING & TRANSFORMATION
+Practiced removing unnecessary columns and rows
+Renamed columns for better readability
+Changed data types according to dataset requirements
+Applied row filtering techniques to clean and organize data
+Improved understanding of preparing raw data for analysis
+3. MERGE QUERIES
+Learned how to merge queries in Power BI
+Practiced different types of joins including:
+Inner Join
+Left Join
+Right Join
+Understood how joins combine data from multiple tables
+Improved knowledge of relational data handling and query operations
+THANK YOU ✨
