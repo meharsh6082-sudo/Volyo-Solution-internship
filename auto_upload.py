@@ -10,7 +10,7 @@ lines = []
 while True:
     line = input()
 
-    if line.strip() == "END":
+    if line.strip() == "end":
         break
 
     lines.append(line)
