@@ -1,0 +1,20 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 24 May 2026
+
+1. DATASET EXPLORATION
+Worked on finding suitable datasets for analysis
+Explored different sources to collect datasets
+Viewed and analyzed dataset structure and contents
+Improved understanding of real-world data collection
+2. DATA CLEANING
+Practiced cleaning raw datasets
+Removed unnecessary and duplicate data
+Organized messy data into a structured format
+Handled missing and incorrect values in datasets
+Improved dataset readability and quality for analysis
+3. DATA PREPARATION
+Prepared datasets for further analysis and visualization
+Improved understanding of preprocessing steps in data analysis
+Learned the importance of clean and accurate data in reporting
+THANK YOU ✨
