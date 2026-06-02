@@ -1,0 +1,23 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 08 May 2026
+
+1. EXCEL FORMULAS PRACTICE
+Practiced important Excel formulas and functions
+Learned and used VLOOKUP for vertical data searching
+Learned and used HLOOKUP for horizontal data searching
+Practiced MIN and MAX formulas
+Improved understanding of spreadsheet calculations and data handling
+2. PYTHON LEARNING
+Learned about Python lists
+Understood the concept and usage of lists in Python
+Practiced different list operations and methods including:
+append()
+del
+clear()
+Learned how to add, delete, and manage items inside lists
+Improved understanding of Python data structures
+3. OVERALL LEARNING
+Improved practical knowledge in both Excel and Python
+Practiced programming and spreadsheet concepts together
+Strengthened logic-building and data handling skills

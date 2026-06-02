@@ -1,0 +1,30 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 27 May 2026
+
+1. POWER BI M LANGUAGE
+Learned the basics of M Language in Power BI
+Understood let...in expressions and their structure
+Practiced editing M code inside Power Query
+Learned about parameters and their usage in queries
+Explored the concept of query folding in Power BI
+2. DATA MODELING CONCEPTS
+Learned the difference between Star Schema and Snowflake Schema
+Understood fact tables and dimension tables
+Explored how data models are structured for analysis and reporting
+Improved understanding of relational data modeling concepts
+3. RELATIONSHIPS IN POWER BI
+Practiced working with table relationships
+Learned different relationship types including:
+One-to-Many (1:M)
+Many-to-Many (M:M)
+Understood relationship cardinality
+Explored cross-filter direction concepts
+Worked with the Manage Relationships window
+4. POWER BI ORGANIZATION & SECURITY
+Learned how to hide fields in reports
+Explored display folders for organizing fields
+Learned how to mark a date table in Power BI
+Understood the basic concept of Row-Level Security (RLS)
+Improved understanding of report organization and data security concepts
+THANK YOU ✨
