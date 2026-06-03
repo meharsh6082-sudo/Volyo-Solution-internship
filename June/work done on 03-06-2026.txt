@@ -1,0 +1,19 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 29 May 2026
+
+1. POWER BI DASHBOARD WORK
+Continued working on the Power BI dashboard
+Practiced improving dashboard layout and report structure
+Worked on organizing visuals for better presentation and analysis
+Improved understanding of interactive dashboard creation
+2. DAX FORMULAS
+Learned and practiced DAX formulas in Power BI
+Understood the basic purpose of DAX in calculations and analysis
+Explored how DAX is used to create calculated columns and measures
+Improved understanding of data calculations and business logic in Power BI
+3. DATA ANALYSIS & VISUALIZATION
+Worked with dashboard visuals and report interaction
+Improved understanding of analytical reporting concepts
+Practiced creating more meaningful and data-driven dashboards
+THANK YOU ✨
