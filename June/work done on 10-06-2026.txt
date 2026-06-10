@@ -1,0 +1,20 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 10 June 2026
+
+1. SENTENCE EMBEDDINGS
+Continued learning about Sentence Embeddings
+Understood how text is converted into vector representations
+Explored how embeddings help measure similarity between sentences and documents
+Learned about the role of embeddings in Natural Language Processing (NLP) applications
+Improved understanding of semantic search and text-based AI systems
+2. CADIENT WEBSITE EXPLORATION
+Explored the Cadient website and its features
+Learned about the platform and its applications
+Analyzed available resources and information on the website
+Improved understanding of industry tools and technology platforms
+3. MACHINE LEARNING & AI CONCEPTS
+Strengthened knowledge of text processing techniques
+Explored practical applications of embeddings in AI systems
+Improved understanding of how modern AI models handle and retrieve information
+THANK YOU ✨
