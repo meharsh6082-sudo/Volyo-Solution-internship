@@ -1,0 +1,21 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 19 June 2026
+
+1. PYTHON LEARNING
+Continued learning Python data structures
+Practiced working with Tuples and Sets
+Understood the characteristics and usage of Tuples in Python
+Learned how Sets store unique values and perform operations efficiently
+Continued learning Dictionaries (in progress)
+Improved understanding of storing and managing data using Python data structures
+2. POWER BI WORK
+Continued working on Power BI concepts and tasks
+Practiced dashboard and reporting-related activities
+Improved understanding of data visualization and business reporting
+Strengthened knowledge of Power BI tools and features
+3. PRACTICAL LEARNING
+Enhanced programming skills through Python practice
+Improved understanding of data structures and data handling concepts
+Continued building knowledge in both Python and Power BI
+THANK YOU ✨
