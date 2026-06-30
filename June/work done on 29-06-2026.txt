@@ -1,0 +1,16 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 29 June 2026
+
+1. SQL LEARNING
+Continued learning SQL concepts and queries
+Practiced writing SQL queries for data retrieval and analysis
+Improved understanding of database operations and structured data
+Strengthened practical knowledge of relational databases
+Enhanced query-writing and data management skills
+2. TABLEAU SETUP
+Downloaded and installed Tableau
+Explored the Tableau interface and basic features
+Understood the purpose of Tableau in data visualization and business intelligence
+Prepared the environment for future Tableau learning and dashboard creation
+THANK YOU ✨
