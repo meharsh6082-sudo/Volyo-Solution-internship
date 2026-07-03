@@ -1,0 +1,30 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 03 July 2026
+
+1. SQL QUERYING CONCEPTS
+Learned comparison operators in SQL
+Practiced using BETWEEN and IN operators for filtering data
+Explored the LIKE operator with % and _ wildcards
+Worked with logical operators AND, OR, and NOT
+Understood operator precedence in SQL queries
+Learned how to compare and handle NULL values effectively
+2. SQL SELECT STATEMENTS
+Practiced using SELECT * and selecting specific columns
+Learned how to use column aliases with AS
+Explored the DISTINCT keyword to retrieve unique values
+Worked with string literals and arithmetic expressions in SELECT statements
+Learned IS NULL and COALESCE for handling missing values
+3. SQL DATA MODIFICATION
+Practiced UPDATE statements with WHERE conditions
+Learned how to update multiple columns in a single query
+Worked with DELETE statements using WHERE clauses
+Understood safe delete practices to avoid accidental data loss
+Learned the basic concept of ROLLBACK and @@ROWCOUNT
+4. SQL DATA INSERTION
+Practiced INSERT INTO ... VALUES statements
+Learned INSERT INTO ... SELECT for copying data between tables
+Explored the concept of bulk inserts
+Learned how to handle NULL values during insertion
+Understood the use of default values while inserting records
+THANK YOU ✨
