@@ -1,0 +1,17 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 08 July 2026
+
+1. SQL LEARNING
+Continued learning SQL concepts and queries
+Practiced using the GROUP BY clause for grouping records
+Learned how to summarize data using aggregate functions with GROUP BY
+Improved understanding of grouping data for analysis and reporting
+Strengthened SQL query-writing skills through practical exercises
+2. PYTHON LEARNING
+Continued practicing Python programming concepts
+Worked on coding exercises and problem-solving activities
+Improved understanding of Python syntax and programming logic
+Strengthened programming fundamentals through hands-on practice
+Enhanced coding skills by applying Python concepts in practical examples
+THANK YOU ✨

@@ -1,0 +1,16 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 09 July 2026
+
+1. SQL LEARNING
+Continued learning SQL join concepts
+Practiced using the INNER JOIN statement to combine related data from multiple tables
+Understood how INNER JOIN returns only the matching records from both tables
+Improved understanding of relational database concepts through join operations
+2. LEFT JOIN PRACTICE
+Learned the LEFT JOIN statement in SQL
+Understood how LEFT JOIN returns all records from the left table and matching records from the right table
+Explored the difference between INNER JOIN and LEFT JOIN
+Practiced writing join queries using multiple tables
+Strengthened SQL query-writing and data retrieval skills through hands-on exercises
+THANK YOU ✨
