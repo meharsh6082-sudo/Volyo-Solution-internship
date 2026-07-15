@@ -1,0 +1,16 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 15 July 2026
+
+1. SALESFORCE LEARNING
+Continued learning Salesforce CRM concepts
+Explored the Salesforce data model and customer management process
+Improved understanding of how businesses organize customer information in Salesforce
+Strengthened knowledge through practical learning and examples
+2. LEADS AND ACCOUNTS
+Learned the concept of Leads in Salesforce
+Understood how leads represent potential customers before qualification
+Learned the concept of Accounts and their role in managing customer information
+Explored the difference between Leads and Accounts in the sales process
+Improved understanding of how customer data moves through the Salesforce CRM lifecycle
+THANK YOU ✨

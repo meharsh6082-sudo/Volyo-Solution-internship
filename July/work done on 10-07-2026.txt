@@ -1,0 +1,17 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 10 July 2026
+
+1. SQL LEARNING
+Continued learning SQL join concepts
+Practiced using the INNER JOIN statement with multiple tables
+Improved understanding of retrieving related data using joins
+Strengthened SQL query-writing skills through practical exercises
+Enhanced knowledge of relational database concepts and data retrieval
+2. POWER BI DASHBOARD DEVELOPMENT
+Worked on creating a Power BI dashboard using the Blinkit dataset
+Imported and prepared the dataset for visualization
+Designed dashboard visuals to present business insights effectively
+Organized charts and KPIs for better report readability
+Improved understanding of dashboard design and data visualization techniques
+THANK YOU ✨
