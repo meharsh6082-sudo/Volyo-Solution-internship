@@ -1,0 +1,16 @@
+TODAY'S ACTIVITIES SUMMARY
+
+Date: 17 July 2026
+
+1. TABLEAU LEARNING
+Continued working with Tableau for data visualization
+Improved understanding of Tableau worksheets and dashboard design
+Practiced creating interactive visualizations using different chart types
+Enhanced knowledge of data visualization techniques and report building
+2. SWIGGY DASHBOARD DEVELOPMENT
+Worked on creating a Tableau dashboard using the Swiggy dataset
+Imported and explored the dataset for analysis
+Created charts to visualize key business insights
+Organized multiple visualizations into an interactive dashboard
+Improved dashboard layout and presentation for better readability and analysis
+THANK YOU ✨
